@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SweetSalt97
 - 👀 I’m interested in Software Development and Data Science
-- 🌱 I’m currently learning Data Structures with C++
+- 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me via linkendin/twitter
 
