@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/premium-vector/girl-welcome-sign-cat-orange-pet-animal-illustration-clipart-art_51194-315.jpg">
+<img src="https://img.freepik.com/premium-vector/girl-welcome-sign-cat-orange-pet-animal-illustration-clipart-art_51194-315.jpg" width=100 height=100>
 
 <!---
 SweetSalt97/SweetSalt97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
