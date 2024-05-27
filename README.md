@@ -1,9 +1,9 @@
 <!-- Add a profile image -->
 <img src="https://avatars.githubusercontent.com/Ashutxshj" alt="Profile Image" width="200" />
 
-# Sup?, I'm Ashutosh 👋
+# Sup? I'm Ashutosh 👋
 
-I'm a 3rd year Computer Science and Engineering student with a passion for software development, machine learning, and open-source contributions.
+I'm a 3rd year Computer Science and Engineering student with a passion for machine learning, and open-source contributions.
 
 ## 🛠️ Skills
 - **Languages:** Python, C++ 
@@ -11,8 +11,8 @@ I'm a 3rd year Computer Science and Engineering student with a passion for softw
 - **Tools:** Git,VSCode
 
 ## 📚 Projects
-1. **[RNN prediction model for Indian Stock Market](Ashutxshj/Stock-Prediction-Model (github.com))**: ●	A deep learning model made using the Long Short-Term Memory algorithm to predict the Indian stock prices based on the data from NIFTY 50.
-2. **[Personalized Movie Recommendation System](Ashutxshj/Movie-Recommendation-System (github.com))**:Developed a machine learning-based Movie Recommendation System using collaborative filtering techniques with scikit-learn and pandas with MovieLens.
+1. **[RNN prediction model for Indian Stock Market](Ashutxshj/Stock-Prediction-Model (github.com))**: A deep learning model made using the Long Short-Term Memory algorithm to predict the Indian stock prices based on the data from NIFTY 50.
+2. **[Personalized Movie Recommendation System](Ashutxshj/Movie-Recommendation-System (github.com))**: Developed a machine learning-based Movie Recommendation System using collaborative filtering techniques with scikit-learn and pandas with MovieLens.
 
 ## 📫 Contact
 - **Email:** ashutoshjha2022@vitbhopal.ac.in
