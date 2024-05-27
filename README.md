@@ -5,14 +5,14 @@ I'm a 3rd year Computer Science and Engineering student with a passion for machi
 
 ## 🛠️ Skills
 - **Languages:** Python, C++ 
-- **Data Science:** Pandas, NumPy, Scikit-Learn, TensorFlow
+- **Data Science:** Pandas, Scikit-Learn, TensorFlow
 - **Tools:** Git,VSCode
 
 ## 📚 Projects
 1. **[RNN prediction model for Indian Stock Market](Ashutxshj/Stock-Prediction-Model (github.com))**: A deep learning model made using the Long Short-Term Memory algorithm to predict the Indian stock prices based on the data from NIFTY 50.
-2. **[Personalized Movie Recommendation System](Ashutxshj/Movie-Recommendation-System (github.com))**: Developed a machine learning-based Movie Recommendation System using collaborative filtering techniques with scikit-learn and pandas with MovieLens.
+2. **[Personalized Movie Recommendation System](Ashutxshj/Movie-Recommendation-System (github.com))**: A machine learning-based Movie Recommendation System using collaborative filtering techniques with scikit-learn and pandas with MovieLens.
 
 ## 📫 Contact
 - **Email:** ashutoshjha2022@vitbhopal.ac.in
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/ashutoshjha97/)
+- **LinkedIn:** [Ashutosh](https://www.linkedin.com/in/ashutoshjha97/)
 - **Twitter:** [@Ashutxshj](https://x.com/Ashutxshj)
