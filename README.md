@@ -1,7 +1,7 @@
 
 # Sup? I'm Ashutosh 👋
 
-I'm a 3rd year Computer Science and Engineering student with a passion for machine learning, and open-source contributions.
+I'm a 3rd year Computer Science and Engineering student with a passion for machine learning and open-source contributions.
 
 ## 🛠️ Skills
 - **Languages:** Python, C++ 
