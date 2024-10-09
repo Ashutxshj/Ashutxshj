@@ -1,0 +1,31 @@
+name: LeetCode Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update LeetCode stats
+        uses: wangrongding/leetcode-stats-box@v1.2.0
+        with:
+          username: "ashutoshjha2022" # Replace with your LeetCode username
+          readme_path: "./README.md"
+          stats_template: |
+            <!-- Your LeetCode Stats will be inserted below -->
+            ![LeetCode Stats](https://leetcard.jacoblin.cool/<your-leetcode-username>?theme=light&font=Karma&ext=heatmap)
+            <!-- Your LeetCode Stats will be inserted above -->
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update LeetCode stats"
+          git push
