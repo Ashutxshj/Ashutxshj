@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 </div>
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ashutosh!;Welcome+to+my+Profile!+🚀" />
 </h1>
@@ -21,7 +20,7 @@ const developer = {
     name: "Ashutosh",
     role: "Student",
     location: "🌍 Earth",
-    languages: ["JavaScript", "Python", "C++"],
+    languages: ["Python", "C++"],
     currentFocus: "Building awesome stuff",
     coffee: "☕ Fuel for coding,I like it cool"
 };
@@ -43,7 +42,6 @@ const developer = {
 ### Languages & Frameworks
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
